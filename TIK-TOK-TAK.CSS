@@ -1,0 +1,67 @@
+.headercontainer {
+    background-color: brown;
+    border: 2px double rgb(31, 4, 4);
+    text-align: center;
+    
+}
+
+.bodycontainer {
+
+    background-color: rgb(241, 136, 98);
+}
+
+.player {
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid rgb(31, 4, 4);
+    display: flex;
+    justify-content: space-around;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+
+}
+    
+.sectionbox {
+    background-color: rgb(99, 70, 70);
+    border: 2px dotted rgb(41, 30, 30);
+    height: 132px;
+    width: 132px; 
+    
+    
+    
+
+}
+
+.classdiv {
+    
+    display: flex;
+   
+}
+
+.boxdiv {
+    font-size: large;
+    background-color: rgb(148, 73, 73);
+    border: 2px solid whitesmoke;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ 
+
+#btn{
+    background-color:  rgb(148, 73, 73);
+    color: antiquewhite;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 28px;
+    
+}
+
+
+
